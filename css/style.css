@@ -1,0 +1,46 @@
+.slider h3, .slider h5,
+.parallax-container h3 {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+}
+
+section {
+    padding: 10px 0;
+}
+
+section .row h6 {
+    padding-bottom: 5px;
+}
+
+
+/* profile */
+.profile .circle {
+    border: 3px solid white;
+}
+
+
+/* about */
+.about .row .light {
+    line-height: 28px;
+}
+
+.parallax-container {
+    height: 200px;
+}
+
+.parallax img {
+    filter: grayscale(1) !important;
+}
+
+.clients .m4 img {
+    max-width: 25%;
+}
+
+.clients .s4 img {
+    max-width: 30%;
+}
+
+
+/* portfolio */
+.portfolio .card-panel {
+    max-height: 300px;
+}
